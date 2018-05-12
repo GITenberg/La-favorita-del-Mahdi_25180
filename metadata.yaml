@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Emilio_Salgari
     - http://it.wikipedia.org/wiki/Emilio_Salgari
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25180#La-favorita-del-Mahdi
 gutenberg_bookshelf: IT Letteratura per ragazzi
 gutenberg_issued: '2008-04-26'
 gutenberg_type: Text
